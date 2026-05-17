@@ -3,9 +3,6 @@
 LLM Fine-Tuning Studio is an interactive web application built using Streamlit that enables users to fine-tune Large Language Models (LLMs) for text classification and text generation tasks with real-time monitoring and evaluation.
 
 ## 🚀 Features
-
-- Upload and preprocess CSV/JSON datasets
-- Support for Text Classification and Text Generation tasks
 - Fine-tune popular transformer models:
   - BERT
   - DistilBERT
